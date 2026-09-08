@@ -13,7 +13,7 @@ humantime: "10am - 1pm NZST"    # human-readable times for the workshop e.g., "9
 startdate: 2026-09-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-09-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Patricia Haden", "Murray Cadzow"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Geoffrey Weal"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["training@reannz.co.nz"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 
 # Optional variables
